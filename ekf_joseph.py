@@ -15,7 +15,7 @@ import scipy.io
 # Configuration
 # =============================================================================
 # <-- CHANGE THIS PATH IF NEEDED -->
-DATASET_PATH = r"C:\Users\89286\Downloads\dataset2.mat"
+DATASET_PATH = r"dataset2.mat"
 
 SAVE_PNG_DPI = 120
 ANIM_INTERVAL_MS = 50
