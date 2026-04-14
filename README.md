@@ -23,6 +23,14 @@ The script supports several experiment settings:
 - A reference run using ground-truth linearization for comparison
 - Trajectory animation with covariance ellipse visualization
 
+## Figures
+
+### EKF Animation: Initialization
+![EKF Initialization](Figures/ekf_animation_init.png)
+
+### EKF Animation: Estimated and Ground-Truth Trajectories
+![EKF Tracking](Figures/ekf_animation_tracking.png)
+
 ## Files
 - `ekf_joseph.py`: main EKF implementation
 - `requirements.txt`: Python dependencies
